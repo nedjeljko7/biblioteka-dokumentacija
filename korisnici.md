@@ -1,9 +1,6 @@
 ## Korisnici sistema :
--Član biblioteke
--Bibliotekar
--Menadzer biblioteke
+-Član biblioteke-uzima i detaljno cita knjiga
+-Bibliotekar-vodi evidenciju primanaja knjiga
+-Menadzer biblioteke-vodi evidenciju inventara
 
-##Opis korisnika
-Clan biblioteke-korisnik
-Biblotekar-radnik
-Menadzer-radnik
+
