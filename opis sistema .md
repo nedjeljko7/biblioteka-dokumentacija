@@ -9,3 +9,4 @@ Bibliotekar vodi racuna o pozajmicama knjiga i povratu istih
 -Član biblioteke mpze pretrazivati knjige po autoru i nazivu
 -Član biblioteke moze pristupiti popisu svojih pozajmica
 -Bibliotekar moze evidentirati pozajmice i povrate knjiga
+-Clan biblioteke moze rezervisati knjigu
